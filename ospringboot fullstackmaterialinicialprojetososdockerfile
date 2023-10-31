@@ -1,0 +1,66 @@
+core.symlinks=false
+core.autocrlf=true
+core.fscache=true
+color.diff=auto
+color.status=auto
+color.branch=auto
+color.interactive=true
+help.format=html
+http.sslcainfo=/bin/curl-ca-bundle.crt
+sendemail.smtpserver=/bin/msmtp.exe
+diff.astextplain.textconv=astextplain
+rebase.autosquash=true
+http.sslcainfo=C:/Program Files/Git/mingw64/ssl/certs/ca-bundle.crt
+http.sslbackend=openssl
+diff.astextplain.textconv=astextplain
+filter.lfs.clean=git-lfs clean -- %f
+filter.lfs.smudge=git-lfs smudge -- %f
+filter.lfs.process=git-lfs filter-process
+filter.lfs.required=true
+credential.helper=manager
+user.name==
+user.email==
+user.mail==
+user.email==
+user.neme==
+user.email==
+user.name==
+user.ppassword==
+user.name==
+user.name==
+user.email==
+user.name==
+user.name==
+user.email==
+user.name==
+user.email==
+user.name===
+user.email===
+user.email==
+user.name==
+user.name==
+user.email==
+filter.hawser.clean=git hawser clean %f
+filter.hawser.smudge=git hawser smudge %f
+filter.hawser.required=true
+filter.lfs.clean=git lfs clean %f
+filter.lfs.smudge=git lfs smudge %f
+filter.lfs.required=true
+core.editor=netbeans
+filesystem.Oracle Corporation|9|-561359538.timestampresolution=26020 microseconds
+filesystem.Oracle Corporation|9|-561359538.minracythreshold=0 nanoseconds
+filesystem.Oracle Corporation|1.8.0_231|-561359538.timestampresolution=5001 microseconds
+filesystem.Oracle Corporation|1.8.0_231|-561359538.minracythreshold=0 nanoseconds
+core.repositoryformatversion=0
+core.filemode=false
+core.bare=false
+core.logallrefupdates=true
+core.symlinks=false
+core.ignorecase=true
+user.email== moisjmelo@gmail.com
+user.name== moisjmelo
+user.password== moisjmelo752631
+remote.origin.url=https://github.com/moisjmelo/os-api.git
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+branch.master.remote=origin
+branch.master.merge=refs/heads/master
